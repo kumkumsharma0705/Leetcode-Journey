@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0307-range-sum-query-mutable) |
 | [0904-fruit-into-baskets](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0307-range-sum-query-mutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
