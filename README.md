@@ -42,13 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0397-integer-replacement) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0397-integer-replacement) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
