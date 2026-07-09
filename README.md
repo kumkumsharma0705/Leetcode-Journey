@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+## Memoization
+|  |
+| ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 <!---LeetCode Topics End-->
