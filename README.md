@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0134-gas-station) |
 | [0303-range-sum-query-immutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0307-range-sum-query-mutable) |
 | [0605-can-place-flowers](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0605-can-place-flowers) |
@@ -40,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
