@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0307-range-sum-query-mutable) |
 | [0605-can-place-flowers](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 | [0904-fruit-into-baskets](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0397-integer-replacement) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/kumkumsharma0705/Leetcode-Journey/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
